@@ -39,7 +39,7 @@ This method has been tested on several real-world datasets, such as:
 ### Installation
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/outlier-detection-abod](https://github.com/raghdafaris/An-Ensemble-Angle-Based-Outlier-Detection-for-Big-Data.git
+    git clone https://github.com/raghdafaris/An-Ensemble-Angle-Based-Outlier-Detection-for-Big-Data.git
     ```
 2. Place your dataset in the working directory.
 
