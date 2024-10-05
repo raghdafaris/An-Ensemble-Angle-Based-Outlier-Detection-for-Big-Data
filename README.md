@@ -1,6 +1,6 @@
 # Angle-Based Outlier Detection Ensemble for Big Data
 
-**Author:** [Raghda Merry Al-Taei](https://www.linkedin.com/in/raghda-merry-al-taei-030738120)
+**Author:** [Raghda Al-Taei](https://www.linkedin.com/in/raghda-merry-al-taei-030738120)
 For more detailed information, check out the full paper on Springer:  
 [Angle-Based Outlier Detection Ensemble for Big Data](https://link.springer.com/chapter/10.1007/978-3-030-33495-6_8)
 
