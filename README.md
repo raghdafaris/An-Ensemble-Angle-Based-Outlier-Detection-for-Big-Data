@@ -49,7 +49,7 @@ The primary script for running the outlier detection ensemble method is `main.m`
 ```matlab
 % Load the dataset and execute the main script
 run('main.m')
-
+  ```
 ## Paper PDF 
 The PDF of the paper is included in this repository. You can find it at the following link:
 - [Download Paper](https://github.com/raghdafaris/An-Ensemble-Angle-Based-Outlier-Detection-for-Big-Data/blob/main/An%20Ensemble%20Angle-Based%20Outlier%20Detection%20for%20Big%20Data.pdf)  
