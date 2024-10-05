@@ -46,10 +46,11 @@ This method has been tested on several real-world datasets, such as:
 ### Usage
 The primary script for running the outlier detection ensemble method is `main.m`. To execute the outlier detection algorithm on your dataset, load the desired dataset and run the `main.m` file. You can customize the parameters like bagging percentage and number of random vectors based on your dataset and requirements.
 
-## Paper PDF 
-The PDF of the paper is included in this repository. You can find it at the following link:
-- [Download Paper]()  
-
 ```matlab
 % Load the dataset and execute the main script
 run('main.m')
+
+## Paper PDF 
+The PDF of the paper is included in this repository. You can find it at the following link:
+- [Download Paper](https://github.com/raghdafaris/An-Ensemble-Angle-Based-Outlier-Detection-for-Big-Data/blob/main/An%20Ensemble%20Angle-Based%20Outlier%20Detection%20for%20Big%20Data.pdf)  
+
